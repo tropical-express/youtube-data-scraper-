@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 # ======================
 # CONFIG (EDIT THESE)
 # ======================
-API_KEY = "AIzaSyCPqb1atyX1ytVklcCFi3hPgMLLecUUygI"
-CHANNEL_ID = "UCgG28RTH48Imf8feEUycW8A"
+API_KEY = "PLACE_YOUR_API_KEY_HERE"
+CHANNEL_ID = "PLACE_CHANNEL_ID_HERE"
 MAX_RESULTS = 5
 BASE_URL = "https://www.googleapis.com/youtube/v3"
 
@@ -201,3 +201,4 @@ except Exception as e:
     log(f"[WARN] Chart failed: {e}")
 
 log(f"[DONE] {today}\n")
+
