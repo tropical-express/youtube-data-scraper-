@@ -2,4 +2,8 @@
 
 2. Get API key for youtube
 
-3. get channel ID by pressing Ctrll
+3. get channel ID by pressing Ctrl + U
+
+4. Replace Placeholders with your actual values
+
+5. Enjoy Scraping
