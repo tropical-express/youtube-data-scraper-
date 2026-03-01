@@ -1,4 +1,5 @@
 1. install python on your pc
-2. figure it out idk
 
-3. toodaloo 
+2. Get API key for youtube
+
+3. get channel ID by pressing Ctrll
